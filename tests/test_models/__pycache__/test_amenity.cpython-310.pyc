@@ -1,0 +1,39 @@
+o
+
+>]bE@sdZddlZddlZddlZddlmZddlmZddlmZGdddej Z
+Gdd d ej Z
+Gd
+
+d
+d
+ej Z
+e
+d
+krEedSdS)
+zDefines unittests for models/amenity.py.
+Unittest classes:
+TestAmenity_instantiation
+TestAmenity_save
+TestAmenity_to_dict
+N)datetime)sleep)Amenityc@sxeZdZdZddZddZddZdd Zd
+d
+Zd
+d
+Z ddZ
+ddZ
+ddZ
+ddZ
+ddZddZddZdS)TestAmenity_instantiationz9Unittests for testing instantiation of the Amenity
+class.cCs|tttdSN)
+
+assertEqualrtypeselfr
+
+L/home/lexxyla/Desktop/Brennan/AirBnB_clone/tests/test_models/test_amenity.pytest_no_arg
+s_instantiatessz3TestAmenity_instantiation.test_no_args_instantiatescCs
+|ttjdSr)assertInrmodelsstorageallvaluesr r
+r
+r
+#test_new_instance_stored_in_objectss
+z=TestAmenity_instantiation.test_new_instance_stored_in_objectscC|tttjdSr)rstrrridr r
+r
+r

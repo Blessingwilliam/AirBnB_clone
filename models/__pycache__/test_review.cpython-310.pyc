@@ -1,0 +1,39 @@
+o
+
+>]b@sdZddlZddlZddlZddlmZddlmZddlmZGdddej Z
+Gdd d ej Z
+Gd
+
+d
+d
+ej Z
+e
+d
+krEedSdS)
+zDefines unittests for models/review.py.
+Unittest classes:
+TestReview_instantiation
+TestReview_save
+TestReview_to_dict
+N)datetime)sleep)Reviewc@seZdZdZddZddZddZdd Zd
+d
+Zd
+d
+Z ddZ
+ddZ
+ddZ
+ddZ
+ddZddZddZddZddZd S)!TestReview_instantiationz8Unittests for testing instantiation of the
+Review class.cCs|tttdSN)
+
+assertEqualrtypeselfr
+
+K/home/lexxyla/Desktop/Brennan/AirBnB_clone/tests/test_models/test_review.pytest_no_args
+_instantiatessz2TestReview_instantiation.test_no_args_instantiatescCs
+|ttjdSr)assertInrmodelsstorageallvaluesr r
+r
+r
+#test_new_instance_stored_in_objectss
+z<TestReview_instantiation.test_new_instance_stored_in_objectscC|tttjdSr)rstrrridr r
+r
+r

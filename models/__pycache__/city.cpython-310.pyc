@@ -1,0 +1,18 @@
+o
+
+b@s$dZddlmZGdddeZdS)zDefines the City class.)
+BaseModelc@seZdZdZdZdZdS)CityzwRepresent a city.
+Attributes:
+state_id (str): The state id.
+name (str): The name of the city.
+N)__name__
+__module__
+
+__qualname____doc__Zstate_idnamer
+
+r
+1/home/lexxyla/Desktop/AirBnB_clone/models/city.pyrsrN)rmodels.base_modelrrr
+r
+r
+r
+<module>s

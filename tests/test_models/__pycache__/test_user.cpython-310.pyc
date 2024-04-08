@@ -1,0 +1,39 @@
+o
+
+>]b&@sdZddlZddlZddlZddlmZddlmZddlmZGdddej Z
+Gdd d ej Z
+Gd
+
+d
+d
+ej Z
+e
+d
+krEedSdS)
+z{Defines unittests for models/user.py.
+Unittest classes:
+TestUser_instantiation
+TestUser_save
+TestUser_to_dict
+N)datetime)sleep)Userc@seZdZdZddZddZddZdd Zd
+d
+Zd
+d
+Z ddZ
+ddZ
+ddZ
+ddZ
+ddZddZddZddZddZd d!Zd"S)#TestUser_instantiationz6Unittests for testing instantiation of the
+User class.cCs|tttdSN)
+
+assertEqualrtypeselfr
+
+I/home/lexxyla/Desktop/Brennan/AirBnB_clone/tests/test_models/test_user.pytest_no_args_in
+stantiatesz0TestUser_instantiation.test_no_args_instantiatescCs
+|ttjdSr)assertInrmodelsstorageallvaluesr r
+r
+r
+#test_new_instance_stored_in_objectss
+z:TestUser_instantiation.test_new_instance_stored_in_objectscC|tttjdSr)rstrrridr r
+r
+r

@@ -1,0 +1,44 @@
+o
+
+>]b@sdZddlZddlZddlZddlmZddlmZddlmZGdddej Z
+Gdd d ej Z
+Gd
+
+d
+d
+ej Z
+e
+d
+krEedSdS)
+zDefines unittests for models/place.py.
+Unittest classes:
+TestPlace_instantiation
+TestPlace_save
+TestPlace_to_dict
+N)datetime)sleep)Placec@seZdZdZddZddZddZdd Zd
+d
+Zd
+d
+Z ddZ
+ddZ
+ddZ
+ddZ
+
+ddZddZddZddZddZd d!Zd"d#Zd$d%Zd&d'Zd(d)Zd*d+Zd,d-
+Zd.d/Zd0S)1TestPlace_instantiationz7Unittests for testing instantiation of the Place
+
+class.cCs|tttdSN)
+
+assertEqualrtypeselfr
+
+J/home/lexxyla/Desktop/Brennan/AirBnB_clone/tests/test_models/test_place.pytest_no_args_i
+nstantiatessz1TestPlace_instantiation.test_no_args_instantiatescCs
+|ttjdSr)assertInrmodelsstorageallvaluesr r
+r
+r
+#test_new_instance_stored_in_objectss
+z;TestPlace_instantiation.test_new_instance_stored_in_objectscC|tttjdSr)rstrrridr r
+r
+r
+
+test_id_is_public_strz-

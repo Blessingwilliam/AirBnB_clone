@@ -1,0 +1,24 @@
+o
+
+b@s$dZddlmZGdddeZdS)zDefines the User class.) BaseModelc@s
+eZdZdZdZdZdZdZdS)UserzRepresent a User.
+Attributes:
+email (str): The email of the user.
+password (str): The password of the user.
+first_name (str): The first name of the user.
+last_name (str): The last name of the user.
+N)__name__
+__module__
+
+__qualname____doc__ZemailZpasswordZ
+
+first_name last_namer
+r
+1/home/lexxyla/Desktop/AirBnB_clone/models/user.pyrs
+
+rN)rmodels.base_modelrrr
+
+r
+r
+r
+<module>s

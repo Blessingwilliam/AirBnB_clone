@@ -1,0 +1,17 @@
+o
+
+b@s$dZddlmZGdddeZdS)zDefines the Amenity class.)
+BaseModelc@seZdZdZdZdS)AmenityzXRepresent an amenity.
+Attributes:
+name (str): The name of the amenity.
+N)__name__
+__module__
+
+__qualname____doc__namer
+
+r
+4/home/lexxyla/Desktop/AirBnB_clone/models/amenity.pyrsrN)rmodels.base_modelrrr
+r
+r
+r
+<module>s

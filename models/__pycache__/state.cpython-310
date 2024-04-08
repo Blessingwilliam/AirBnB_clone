@@ -1,0 +1,17 @@
+o
+
+b@s$dZddlmZGdddeZdS)zDefines the State class.)
+BaseModelc@seZdZdZdZdS)StatezSRepresent a state.
+Attributes:
+name (str): The name of the state.
+N)__name__
+__module__
+
+__qualname____doc__namer
+
+r
+2/home/lexxyla/Desktop/AirBnB_clone/models/state.pyrsrN)rmodels.base_modelrrr
+r
+r
+r
+<module>s

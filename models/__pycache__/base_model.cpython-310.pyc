@@ -1,0 +1,15 @@
+o
+
+bo@s6dZddlZddlmZddlmZGdddZdS)zDefines the BaseModel
+class.N)uuid4)datetimec@s0eZdZdZddZddZddZdd Zd
+S)
+BaseModelz-Represents the BaseModel of the HBnB
+project.cOsd}tt|_t|_t|_t|dkr:|D]\}}|dks(|dkr2t |||j
+|<q||j
+|<qdSt
+j
+|dS)zInitialize a new BaseModel.
+Args:
+*args (any): Unused.
+**kwargs (dict): Key/value pairs of attributes.
+z%Y-%m-

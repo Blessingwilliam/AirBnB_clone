@@ -1,0 +1,39 @@
+o
+
+>]b@sdZddlZddlZddlZddlmZddlmZddlmZGdddej Z
+Gdd d ej Z
+Gd
+
+d
+d
+ej Z
+e
+d
+krEedSdS)
+zDefines unittests for models/base_model.py.
+Unittest classes:
+TestBaseModel_instantiation
+TestBaseModel_save
+TestBaseModel_to_dict
+N)datetime)sleep) BaseModelc@sxeZdZdZddZddZddZdd Zd
+d
+Zd
+d
+Z ddZ
+ddZ
+ddZ
+ddZ
+ddZddZddZdS)TestBaseModel_instantiationz;Unittests for testing instantiation of the
+BaseModel class.cCs|tttdSN)
+
+assertEqualrtypeselfr
+
+O/home/lexxyla/Desktop/Brennan/AirBnB_clone/tests/test_models/test_base_model.pytest_no
+_args_instantiatessz5TestBaseModel_instantiation.test_no_args_instantiatescCs
+|ttjdSr)assertInrmodelsstorageallvaluesr r
+r
+r
+#test_new_instance_stored_in_objectss
+z?TestBaseModel_instantiation.test_new_instance_stored_in_objectscC|tttjdSr)rstrrridr r
+r
+r
